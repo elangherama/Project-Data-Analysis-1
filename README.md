@@ -24,3 +24,6 @@ This is my first practice project in data analysis. I used Excel for data proces
      
 4. Data Visualization
    - The analysis results were visualized using Looker Studio to gain better insights.
+
+## Dashboard
+<a href="https://github.com/elangherama/Project-Data-Analysis-1/blob/main/Project_1_Fraud_Analysis.pdf">View Dashboard<a/>
